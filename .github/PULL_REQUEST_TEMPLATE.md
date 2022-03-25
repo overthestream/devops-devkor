@@ -1,5 +1,3 @@
-# PR title
-
 <!--
 Give the PR a descriptive title.
   Examples of good title:
