@@ -4,5 +4,4 @@ test/**
 dist/**
 yarn-error.log
 .env
-sql/**
 log.txt
