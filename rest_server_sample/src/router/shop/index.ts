@@ -1,5 +1,11 @@
 import express from 'express';
-import { getAllShop, getKeywordById, getShopById, addKeyword, addShop } from './controller';
+import {
+  getAllShop,
+  getKeywordById,
+  getShopById,
+  addKeyword,
+  addShop,
+} from './controller';
 
 const router = express.Router();
 

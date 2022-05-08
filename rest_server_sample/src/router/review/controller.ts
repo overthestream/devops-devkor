@@ -12,7 +12,6 @@ export const addReview = async (req: Request, res: Response) => {
     await queryGenerator(query);
 
     res.sendStatus(200);
-
   } catch (err) {
     console.log(err);
     res.status(500);

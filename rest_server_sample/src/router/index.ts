@@ -1,6 +1,6 @@
 import express from 'express';
 import shopRouter from './shop/index';
-import reviewRouter from './review/index'
+import reviewRouter from './review/index';
 
 const router = express.Router();
 
