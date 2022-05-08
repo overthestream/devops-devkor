@@ -1,0 +1,8 @@
+node_modules/**
+.DS_Store
+test/**
+dist/**
+yarn-error.log
+.env
+sql/**
+log.txt
